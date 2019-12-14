@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="name">Name</string>
+    <string name="tele">Tele</string>
+    <string name="save">Save</string>
+    <string name="telephone">Telephone</string>
+    <string name="profile">Profile</string>
+    <string name="contact_already_exist">Contact Already Exist</string>
+    <string name="are_you_want_update">Are you want to update?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="call">call</string>
+    <string name="delete">delete</string>
+    <string name="required">Required</string>
+</resources>
